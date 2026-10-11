@@ -1,4 +1,4 @@
-Keras==2.4.0
+Keras==3.15.1
 tensorflow==2.4.0
 tensorflow-datasets
 tensorflow-metadata
